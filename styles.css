@@ -1,5 +1,9 @@
+.title {
+	display: none;
+}
+
 .fancy {
-	font-family: cursive;
+	font-family: cursive, serif;
 	color: #0000CD;
 }
 
@@ -14,4 +18,14 @@ a:hover {
 
 a:visited {
 	color: #EE9A00
+}
+
+header {
+	font-family: Garamond, serif;
+	font-color: #4A4943;
+}
+
+h1 {
+	font-family: Courier, sans-serif;
+	color: color: #576D94;
 }
