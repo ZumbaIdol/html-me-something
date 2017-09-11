@@ -47,3 +47,26 @@ img:hover {
 div {
 	color: green;
 }
+
+
+a {
+	text-decoration: none;
+	color: #3D59AB;
+	font-family: Verdana, sans-serif;
+}
+
+span {
+	font-weight: bold;
+	font-size: 18px;
+	color: #ffffff;
+}
+
+div div {
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	height: 100px;
+	width: 150px;
+	margin: auto;
+	text-align: center;
+}
